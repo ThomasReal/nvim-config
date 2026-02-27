@@ -1,0 +1,5 @@
+require("nvim-conf.keymaps").colemak()
+require("nvim-conf.options")
+require("nvim-conf.autocommands")
+require("nvim-conf.plugins")
+require("nvim-conf.colorschemes").edge()
